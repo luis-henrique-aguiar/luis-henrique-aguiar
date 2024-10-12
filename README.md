@@ -35,13 +35,13 @@
 ###
 
 <div align="left">
-  <img src="https://streak-stats.demolab.com?user=Luis-Aguiar01&locale=en&mode=daily&theme=codeSTACKr&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=3" height="220" alt="streak graph"  />
+  <img src="https://streak-stats.demolab.com?user=Luis-Aguiar01&locale=en&mode=daily&theme=gruvbox_light&hide_border=false&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" height="220" alt="streak graph"  />
 </div>
 
 ###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Luis-Aguiar01&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=false&order=2" height="180" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Luis-Aguiar01&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox_light&hide_border=false&order=2" height="200" alt="languages graph"  />
 </div>
 
 ###
