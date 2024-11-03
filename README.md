@@ -3,9 +3,13 @@
 
 #
 
-<h3 align="center">About Me</h3>
+### About Me
 
-<p align="left">a</p>
+- asdasd  
+- assadsad  
+
+![Image](https://i.pinimg.com/originals/52/1c/d4/521cd4b14f7f3d086a3d5778806bc572.gif)
+
 
 #
 
@@ -59,9 +63,7 @@
   <img src="https://streak-stats.demolab.com?user=Luis-Aguiar01&locale=en&mode=daily&theme=radical&hide_border=true&border_radius=5&order=3" height="200" alt="streak graph"  />
 </div>
 
-<div align="center">
-  <img height="200" src="https://i.pinimg.com/originals/52/1c/d4/521cd4b14f7f3d086a3d5778806bc572.gif"  />
-</div>
+
 
 ###
 
