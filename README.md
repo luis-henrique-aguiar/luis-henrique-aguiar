@@ -1,20 +1,18 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient)
+![header](https://capsule-render.vercel.app/api?type=waving&color=FF4F00)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF4F00&size=35&center=true&vCenter=true&width=1000&lines=Hello+There;I'm+Luis;+Welcome+to+my+profile)](https://git.io/typing-svg) 
 
 #
 
-<h3 align="center">About Me</h3>
+<h3 align="center">🙂 About Me</h3>
 
 <div>
+  <div align="end">
+    <img height="200" src="https://i.pinimg.com/originals/52/1c/d4/521cd4b14f7f3d086a3d5778806bc572.gif"  />
+  </div>
   <p>asdasd</p>  
   <p>assadsad</p> 
-  ![Image](https://i.pinimg.com/originals/52/1c/d4/521cd4b14f7f3d086a3d5778806bc572.gif)
+  
 </div>
-
- 
-
-
-
 
 #
 
@@ -68,28 +66,23 @@
   <img src="https://streak-stats.demolab.com?user=Luis-Aguiar01&locale=en&mode=daily&theme=radical&hide_border=true&border_radius=5&order=3" height="200" alt="streak graph"  />
 </div>
 
+#
 
-
-###
-
-
-###
-
-<h3 align="left">Contact</h3>
-
-###
-
-<div align="left">
+<h3 align="center">Contact with me!</h3>
+<br>
+<div align="center">
   <a href="https://www.linkedin.com/in/luis-henrique-aguiar/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="50" alt="linkedin logo"  />
+  </a> &nbsp &nbsp
   <a href="mailto:luis.aguiar@aluno.ifsp.edu.br" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="50" alt="gmail logo"  />
+  </a> &nbsp &nbsp
+
   <a href="mailto:luishenrique.aguiar@outlook.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="microsoft-outlook logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="50" height="40" alt="microsoft-outlook logo"  />
   </a>
 </div>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient)
-###
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=FF4F00&section=footer)
+
