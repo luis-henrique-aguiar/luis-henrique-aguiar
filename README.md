@@ -7,11 +7,9 @@
 
 <br>
 
-<ul>
-  <li>🎓 Atualmente estou cursando o 4º semestre de Análise e Desenvolvimento de Sistemas.</li>
-  <li>☕ Tenho uma forte afinidade com a área de Back-End e com Java.</li>
-  <li>📖 Tento me manter sempre aprendendo coisas novas.</li>
-</ul>
+- 🎓 Atualmente estou cursando o 4º semestre de Análise e Desenvolvimento de Sistemas.
+- ☕ Tenho uma forte afinidade com a área de Back-End e com Java.
+- 📖 Tento me manter sempre aprendendo coisas novas.
 
 #
 
