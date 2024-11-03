@@ -80,7 +80,13 @@
   </a>
 </div>
 
-<img src="https://raw.githubusercontent.com/Luis-Aguiar01/Luis-Aguiar01/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CristianoRDO/CristianoRDO/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CristianoRDO/CristianoRDO/output/github-contribution-grid-snake-dark.svg">
+    <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/CristianoRDO/CristianoRDO/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0000FF&section=footer)
 
