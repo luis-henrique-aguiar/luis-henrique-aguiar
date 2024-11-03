@@ -7,9 +7,9 @@
 
 <br>
 
-- 🎓 Atualmente estou cursando o 4º semestre de Análise e Desenvolvimento de Sistemas.
-- ☕ Tenho uma forte afinidade com a área de Back-End e com Java.
-- 📖 Tento me manter sempre aprendendo coisas novas.
+- 🎓 Atualmente estou cursando o 4º semestre de Análise e Desenvolvimento de Sistemas, IFSP - Araraquara.
+- ☕ Tenho uma forte afinidade com a área de Back-End e Java.
+- 📖 Estou constantemente aprendendo coisas novas.
 
 #
 
