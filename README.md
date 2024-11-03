@@ -4,7 +4,9 @@
 #
 
 <h3 align="center">🙂 About Me</h3>
+
 <br>
+
 <ul>
   <li>🎓 Atualmente estou cursando o 4º semestre de Análise e Desenvolvimento de Sistemas.</li>
   <li>☕ Tenho uma forte afinidade com a área de Back-End e com Java.</li>
@@ -14,6 +16,7 @@
 #
 
 <h3 align="center">💻 Main Languages and Frameworks</h3>
+
 <br>
 
 <div align="center">
@@ -39,7 +42,9 @@
 #
 
 <h3 align="center">🛠 Main Tools</h3>
+
 <br>
+
 <div align="center">
   <img src="https://skillicons.dev/icons?i=idea" height="50" alt="intellijidea logo"  />
   <img width="12" />
@@ -55,7 +60,9 @@
 #
 
 <h3 align="center">📚 My GitHub Stats</h3>
+
 <br>
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Luis-Aguiar01&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true&order=1" height="200" alt="stats graph" /> &nbsp &nbsp
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Luis-Aguiar01&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true&order=2" height="200" alt="languages graph" />
@@ -78,14 +85,6 @@
   <a href="mailto:luishenrique.aguiar@outlook.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="50" height="40" alt="microsoft-outlook logo"  />
   </a>
-</div>
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CristianoRDO/CristianoRDO/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CristianoRDO/CristianoRDO/output/github-contribution-grid-snake-dark.svg">
-    <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/CristianoRDO/CristianoRDO/output/github-contribution-grid-snake.svg">
-  </picture>
 </div>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0000FF&section=footer)
