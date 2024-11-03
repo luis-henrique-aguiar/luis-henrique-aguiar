@@ -1,22 +1,15 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=FF4F00)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF4F00&size=35&center=true&vCenter=true&width=1000&lines=Hello+There;I'm+Luis;+Welcome+to+my+profile)](https://git.io/typing-svg) 
+![header](https://capsule-render.vercel.app/api?type=waving&color=003262)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=003262&size=40&center=true&vCenter=true&width=1000&lines=Hello+There;I'm+Luis;+Welcome+to+my+profile)](https://git.io/typing-svg) 
+
 
 #
 
-<h3 align="center">🙂 About Me</h3>
+<h2 align="center">🙂 About Me</h2>
 
-<div>
-  <div align="end">
-    <img height="200" src="https://i.pinimg.com/originals/52/1c/d4/521cd4b14f7f3d086a3d5778806bc572.gif"  />
-  </div>
-  <p>asdasd</p>  
-  <p>assadsad</p> 
-  
-</div>
 
 #
 
-<h3 align="center">💻 Main Languages and Frameworks</h3>
+<h2 align="center">💻 Main Languages and Frameworks</h2>
 <br>
 
 <div align="center">
@@ -42,7 +35,7 @@
 
 #
 
-<h3 align="center">🛠 Main Tools</h3>
+<h2 align="center">🛠 Main Tools</h2>
 <br>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=idea" height="50" alt="intellijidea logo"  />
@@ -58,7 +51,7 @@
 
 #
 
-<h3 align="center">📚 My GitHub Stats</h3>
+<h2 align="center">📚 My GitHub Stats</h2>
 <br>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Luis-Aguiar01&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true&order=1" height="200" alt="stats graph" /> &nbsp &nbsp
@@ -68,7 +61,7 @@
 
 #
 
-<h3 align="center">Contact with me!</h3>
+<h2 align="center">Contact with me!</h2>
 <br>
 <div align="center">
   <a href="https://www.linkedin.com/in/luis-henrique-aguiar/" target="_blank">
@@ -84,5 +77,5 @@
 </div>
 
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=FF4F00&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=003262&section=footer)
 
