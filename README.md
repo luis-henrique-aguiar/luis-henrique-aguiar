@@ -1,14 +1,19 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F00&size=35&center=true&vCenter=true&width=1000&lines=Hi;Hello)](https://git.io/typing-svg) 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FF4F00&size=35&center=true&vCenter=true&width=1000&lines=Hello+There;I'm+Luis;+Welcome+to+my+profile)](https://git.io/typing-svg) 
 
 #
 
-### About Me
+<h3 align="center">About Me</h3>
 
-- asdasd  
-- assadsad  
+<div>
+  <p>asdasd</p>  
+  <p>assadsad</p> 
+  ![Image](https://i.pinimg.com/originals/52/1c/d4/521cd4b14f7f3d086a3d5778806bc572.gif)
+</div>
 
-![Image](https://i.pinimg.com/originals/52/1c/d4/521cd4b14f7f3d086a3d5778806bc572.gif)
+ 
+
+
 
 
 #
@@ -57,9 +62,9 @@
 
 <h3 align="center">📚 My GitHub Stats</h3>
 <br>
-<div align="left">
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Luis-Aguiar01&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true&order=1" height="200" alt="stats graph" /> &nbsp &nbsp
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Luis-Aguiar01&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true&order=2" height="200" alt="languages graph" /> <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Luis-Aguiar01&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true&order=2" height="200" alt="languages graph" />
   <img src="https://streak-stats.demolab.com?user=Luis-Aguiar01&locale=en&mode=daily&theme=radical&hide_border=true&border_radius=5&order=3" height="200" alt="streak graph"  />
 </div>
 
