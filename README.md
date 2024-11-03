@@ -1,15 +1,21 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0000FF)
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0000FF&size=40&center=true&vCenter=true&width=1000&lines=Hello+There;I'm+Luis;+Welcome+to+my+profile)](https://git.io/typing-svg) 
 
+<br><br>
 
 #
 
-<h2 align="center">🙂 About Me</h2>
-
+<h3 align="center">🙂 About Me</h3>
+<br>
+<ul>
+  <li>🎓 Atualmente estou cursando o 4º semestre de Análise e Desenvolvimento de Sistemas.</li>
+  <li>☕ Tenho uma forte afinidade com a área de Back-End e com Java.</li>
+  <li>📖 Tento me manter sempre aprendendo coisas novas.</li>
+</ul>
 
 #
 
-<h2 align="center">💻 Main Languages and Frameworks</h2>
+<h3 align="center">💻 Main Languages and Frameworks</h3>
 <br>
 
 <div align="center">
@@ -32,10 +38,9 @@
   <img src="https://skillicons.dev/icons?i=tailwind" height="50" alt="tailwindcss logo"  />
 </div>
 
-
 #
 
-<h2 align="center">🛠 Main Tools</h2>
+<h3 align="center">🛠 Main Tools</h3>
 <br>
 <div align="center">
   <img src="https://skillicons.dev/icons?i=idea" height="50" alt="intellijidea logo"  />
@@ -51,7 +56,7 @@
 
 #
 
-<h2 align="center">📚 My GitHub Stats</h2>
+<h3 align="center">📚 My GitHub Stats</h3>
 <br>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Luis-Aguiar01&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true&order=1" height="200" alt="stats graph" /> &nbsp &nbsp
@@ -61,7 +66,7 @@
 
 #
 
-<h2 align="center">Contact with me!</h2>
+<h3 align="center">✉ Contact with me!</h3>
 
 <br>
 
@@ -72,12 +77,12 @@
   <a href="mailto:luis.aguiar@aluno.ifsp.edu.br" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="50" alt="gmail logo"  />
   </a> &nbsp &nbsp
-
   <a href="mailto:luishenrique.aguiar@outlook.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="50" height="40" alt="microsoft-outlook logo"  />
   </a>
 </div>
 
+<br><br>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0000FF&section=footer)
 
