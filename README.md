@@ -1,7 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0000FF)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0000FF&size=40&center=true&vCenter=true&width=1000&lines=Hello+There;I'm+Luis;+Welcome+to+my+profile)](https://git.io/typing-svg) 
-
-<br><br>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0000FF&size=50&center=true&vCenter=true&width=1000&lines=Hello+There;I'm+Luis;+Welcome+to+my+profile)](https://git.io/typing-svg) 
 
 #
 
@@ -82,7 +80,7 @@
   </a>
 </div>
 
-<br><br>
+<img src="https://raw.githubusercontent.com/Luis-Aguiar01/Luis-Aguiar01/output/snake.svg" alt="Snake animation" />
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0000FF&section=footer)
 
