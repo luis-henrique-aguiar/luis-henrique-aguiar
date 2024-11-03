@@ -1,5 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=003262)
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=003262&size=40&center=true&vCenter=true&width=1000&lines=Hello+There;I'm+Luis;+Welcome+to+my+profile)](https://git.io/typing-svg) 
+![header](https://capsule-render.vercel.app/api?type=waving&color=0000FF)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=0000FF&size=40&center=true&vCenter=true&width=1000&lines=Hello+There;I'm+Luis;+Welcome+to+my+profile)](https://git.io/typing-svg) 
 
 
 #
@@ -62,7 +62,9 @@
 #
 
 <h2 align="center">Contact with me!</h2>
+
 <br>
+
 <div align="center">
   <a href="https://www.linkedin.com/in/luis-henrique-aguiar/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="50" alt="linkedin logo"  />
@@ -77,5 +79,5 @@
 </div>
 
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=003262&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0000FF&section=footer)
 
