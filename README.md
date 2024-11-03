@@ -1,20 +1,20 @@
-<h1 align="center">👋 Welcome to my Github profile</h1>
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F00&size=35&center=true&vCenter=true&width=1000&lines=Hi;Hello)](https://git.io/typing-svg) 
 
-###
+#
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="center">👩‍💻  About Me</h3>
 
-###
+<p align="left">a</p>
 
-<p align="left">Olá! Sou um estudante de Desenvolvimento de Software, atualmente no 4º semestre de Análise e Desenvolvimento de Sistemas. Tenho uma forte afinidade com a área de back-end, usando, principalmente, a linguagem Java. Também tenho interesses em outras áreas, e estou sempre aprendendo tecnologias e conceitos novos.</p>
+#
 
-###
+<h3 align="center">🛠 Main Languages</h3>
 
-<h3 align="left">🛠 Language and tools</h3>
 
-###
 
-<div align="left">
+
+<div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/spring/6DB33F" height="40" alt="spring logo"  />
@@ -28,21 +28,25 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
 </div>
 
-###
+#
 
-<h3 align="left">My Stats</h3>
+<h3 align="center">🛠 Main Tools</h3>
 
-###
 
-<div align="left">
-  <img src="https://streak-stats.demolab.com?user=Luis-Aguiar01&locale=en&mode=daily&theme=gruvbox_light&hide_border=false&border_radius=5&date_format=j%20M%5B%20Y%5D&order=3" height="220" alt="streak graph"  />
+#
+
+<h3 align="center">📚 My GitHub Stats</h3>
+<br>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Luis-Aguiar01&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true&order=1" height="200" alt="stats graph" /> &nbsp &nbsp &nbsp &nbsp
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Luis-Aguiar01&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true&order=2" height="200" alt="languages graph" /> <br><br>
+  <img src="https://streak-stats.demolab.com?user=Luis-Aguiar01&locale=en&mode=daily&theme=radical&hide_border=true&border_radius=5&order=3" height="200" alt="streak graph"  />
 </div>
 
+
+
 ###
 
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Luis-Aguiar01&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=gruvbox_light&hide_border=false&order=2" height="200" alt="languages graph"  />
-</div>
 
 ###
 
@@ -62,4 +66,5 @@
   </a>
 </div>
 
+![footer](https://capsule-render.vercel.app/api?type=waving&color=gradient)
 ###
