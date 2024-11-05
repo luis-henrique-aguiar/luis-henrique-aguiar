@@ -7,9 +7,11 @@
 
 <br>
 
-- 🎓 Atualmente estou cursando o 4º semestre de Análise e Desenvolvimento de Sistemas, IFSP - Araraquara.
-- ☕ Tenho uma forte afinidade com a área de Back-End e Java.
-- 📖 Estou constantemente aprendendo coisas novas.
+- 🎓 I am currently in the 4th semester of the **System Analysis and Development** program at **IFSP - Araraquara**.
+- ☕ I have a strong passion for Back-End development and a particular affinity for Java.
+- 📖 I am constantly expanding my knowledge and eager to learn new technologies.
+- 👨‍💻 I have worked on projects involving **JSP, Servlet, Java, Spring Boot, and databases**, which have strengthened my skills in web application development and back-end integration.
+- 🎯 Aspiring to specialize in **Java Web development**, with a focus on **Spring Boot** and **microservices architecture**.
 
 #
 
