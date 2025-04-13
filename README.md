@@ -7,11 +7,10 @@
 
 <br>
 
-- 🎓 I am currently in the 4th semester of the **System Analysis and Development** program at **IFSP - Araraquara**.
+- 🎓 I am currently in the 5th semester of the **System Analysis and Development** program at **IFSP - Araraquara**.
 - ☕ I have a strong passion for Back-End development and a particular affinity for Java.
 - 📖 I am constantly expanding my knowledge and eager to learn new technologies.
-- 👨‍💻 I have worked on projects involving **JSP, Servlet, Java, Spring Boot, and databases**, which have strengthened my skills in web application development and back-end integration.
-- 🎯 Aspiring to specialize in **Java Web development**, with a focus on **Spring Boot** and **microservices architecture**.
+- 👨‍💻 I've been diving into projects using **Java, Spring Boot, and microservices architecture** to build solid back-end systems. On the front-end, I work with **React, TypeScript, and Next.js**, crafting modern, high-performance interfaces. My experience spans web app development, database integration, and creating seamless full-stack solutions.
 
 #
 
