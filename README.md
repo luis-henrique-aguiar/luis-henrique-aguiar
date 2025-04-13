@@ -37,6 +37,12 @@
   <img src="https://skillicons.dev/icons?i=js" height="50" alt="javascript logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=tailwind" height="50" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="50" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=typescript" height="50" alt="typescript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=next" height="50" alt="next logo"  />
 </div>
 
 #
@@ -64,9 +70,9 @@
 <br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Luis-Aguiar01&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true&order=1" height="200" alt="stats graph" /> &nbsp &nbsp
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Luis-Aguiar01&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true&order=2" height="200" alt="languages graph" />
-  <img src="https://streak-stats.demolab.com?user=Luis-Aguiar01&locale=en&mode=daily&theme=radical&hide_border=true&border_radius=5&order=3" height="200" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=luis-henrique-aguiar&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=true&order=1" height="200" alt="stats graph" /> &nbsp &nbsp
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=luis-henrique-aguiar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=true&order=2" height="200" alt="languages graph" />
+  <img src="https://streak-stats.demolab.com?user=luis-henrique-aguiar&locale=en&mode=daily&theme=radical&hide_border=true&border_radius=5&order=3" height="200" alt="streak graph"  />
 </div>
 
 #
@@ -82,9 +88,6 @@
   <a href="mailto:luis.aguiar@aluno.ifsp.edu.br" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="50" alt="gmail logo"  />
   </a> &nbsp &nbsp
-  <a href="mailto:luishenrique.aguiar@outlook.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="50" height="40" alt="microsoft-outlook logo"  />
-  </a>
 </div>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=15F4EE&section=footer)
