@@ -14,34 +14,29 @@
 
 #
 
-<h3 align="center">💻 Main Languages and Frameworks</h3>
+<h3 align="center">💻 Main Technologies</h3>
 
 <br>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=java" height="50" alt="java logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=c" height="50" alt="c logo"  />
+  <img src="https://skillicons.dev/icons?i=kotlin" height="50" alt="kotlin logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=spring" height="50" alt="spring logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postgres" height="50" alt="postgresql logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="mysql logo"  />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="nodejs logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="50" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="50" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="50" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="50" alt="tailwindcss logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=react" height="50" alt="react logo"  />
+  <img src="https://skillicons.dev/icons?i=nest" height="50" alt="nest logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=typescript" height="50" alt="typescript logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=next" height="50" alt="next logo"  />
+  <img src="https://skillicons.dev/icons?i=react" height="50" alt="react logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="50" alt="aws logo"  />
+  <img width="12" />
 </div>
 
 #
