@@ -37,6 +37,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=aws" height="50" alt="aws logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=gcp" height="50" alt="gcp logo"  />
+  <img width="12" />
 </div>
 
 #
